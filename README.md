@@ -1,12 +1,12 @@
 # Hi there, I'm Ramazan KÜÇÜKKOÇ -  👋 
 
-## I'm a Computer Engineering, Web Developer, and Student!!
+## I'm a Software Developer, Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web technologies
+- 🥅 2023 Goals: Learn more about web technologies
 - ⚡ Fun fact: I love to watch match and play football / basketball
-- 😻 I am developing myself in the backend field.
+- 😻 I am developing myself in the fullstack field.
 
 ### Connect with me:
 
