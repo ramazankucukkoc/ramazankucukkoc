@@ -1,4 +1,5 @@
-
+##About Me
+A curious developer with high learning skills and fast adapt to new technologies. Persistant to overcome challanges, search different methods to make effective solutions. Care to visual, algorithmic and coding design like an art. Search different sources and algorithms to make most efficient products. Friendly management skills and adapt new team members, Not only learn himself, willing to teach for team improvement. Curious to learn various technologies, tools and libraries.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramazankckkc) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ramazankucukkoc) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20162155) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@oGnRE-prNbGiIr_wFjHqxQ) 
 
